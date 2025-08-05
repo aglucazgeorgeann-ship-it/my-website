@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Unit Converter</title>
+  <link rel="stylesheet" href="1converter.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🔁 Unit Converter</h1>
+
+    <select id="unitType">
+      <option value="length">Length (Meters ⇄ Kilometers)</option>
+      <option value="temp">Temperature (Celsius ⇄ Fahrenheit)</option>
+      <option value="weight">Weight (Kg ⇄ Pounds)</option>
+    </select>
+
+    <input type="number" id="inputValue" placeholder="Enter value" />
+
+    <p id="result">Result: --</p>
+  </div>
+
+  <script src="1converter.js"></script>
+</body>
+</html>

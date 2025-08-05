@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Event Countdown</title>
+  <link rel="stylesheet" href="1countdown.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎉 Event Countdown</h1>
+
+    <input type="date" id="datePicker" />
+    <button id="startBtn">Start Countdown</button>
+
+    <div id="countdown" class="hidden">
+      <h2>⏳ Time Left:</h2>
+      <div class="timer">
+        <div><span id="days">0</span><small>Days</small></div>
+        <div><span id="hours">0</span><small>Hours</small></div>
+        <div><span id="minutes">0</span><small>Minutes</small></div>
+        <div><span id="seconds">0</span><small>Seconds</small></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="1countdown.js"></script>
+</body>
+</html>

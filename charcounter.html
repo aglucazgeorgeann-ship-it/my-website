@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Character Counter</title>
+  <link rel="stylesheet" href="charcounter.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>📝 Character Counter</h1>
+
+    <textarea id="message" rows="6" placeholder="Type your message here..."></textarea>
+    
+    <div class="info-row">
+      <p id="counter"><span id="count">0</span> / 100</p>
+      <p id="remaining">💬 100 characters remaining</p>
+    </div>
+
+    <button id="submitBtn" disabled>Submit</button>
+  </div>
+
+  <script src="charcounter.js"></script>
+</body>
+</html>
