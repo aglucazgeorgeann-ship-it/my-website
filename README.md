@@ -1,6 +1,8 @@
 🌐 My Website - Koleksyon ng Simpleng Web Projects
 Isang koleksyon ng mga simpleng web project at code exercises na binuo gamit ang HTML, CSS, at JavaScript. Ang repository na ito ay nagsisilbing personal na showcase ng mga foundational skills sa web development, mula sa basic DOM manipulation hanggang sa mga simpleng interactive applications.
 
+🌍 Live Demo: Task Manager on Netlify
+
 ✨ Mga Tampok (Features & Projects)
 Ang repository na ito ay naglalaman ng iba't ibang maliliit na proyekto na sumasaklaw sa:
 
@@ -19,6 +21,33 @@ Password Generators: Mga simpleng tool para sa pag-generate ng password.
 Interactive UI Components: Tulad ng accordion menus, image sliders, at color changing features.
 
 JavaScript Fundamentals: Mga proyekto na nagpapakita ng DOM manipulation, event handling, at basic logic.
+
+📸 Mga Screenshot (Screenshots)
+Narito ang ilang visual preview ng mga proyekto sa koleksyong ito:
+
+Expense Tracker
+!(https://github.com/aglucazgeorgeann-ship-it/my-website/blob/main/ExpenseTracker.jpg?raw=true)
+
+BMI Calculator
+!(https://github.com/aglucazgeorgeann-ship-it/my-website/blob/main/bmi.jpg?raw=true)
+
+Countdown Timer
+!(https://github.com/aglucazgeorgeann-ship-it/my-website/blob/main/countdowntimer.jpg?raw=true)
+
+My Website Homepage
+!(https://github.com/aglucazgeorgeann-ship-it/my-website/blob/main/mywebsite.jpg?raw=true)
+
+Password Checker
+!(https://github.com/aglucazgeorgeann-ship-it/my-website/blob/main/passwordchecker.jpg?raw=true)
+
+Sign-up Form
+!(https://github.com/aglucazgeorgeann-ship-it/my-website/blob/main/signupform.jpg?raw=true)
+
+Image Slider
+!(https://raw.githubusercontent.com/aglucazgeorgeann-ship-it/my-website/24d7dedcbe75eb72666da83a6436ea6719d2dd86/sliderimage.jpg)
+
+Unit Converter
+!(https://raw.githubusercontent.com/aglucazgeorgeann-ship-it/my-website/24d7dedcbe75eb72666da83a6436ea6719d2dd86/unitconverter.jpg)
 
 🛠 Mga Teknolohiya (Technologies Used)
 Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
