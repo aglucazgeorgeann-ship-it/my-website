@@ -1,7 +1,7 @@
 🌐 My Website - Koleksyon ng Simpleng Web Projects
 Isang koleksyon ng mga simpleng web project at code exercises na binuo gamit ang HTML, CSS, at JavaScript. Ang repository na ito ay nagsisilbing personal na showcase ng mga foundational skills sa web development, mula sa basic DOM manipulation hanggang sa mga simpleng interactive applications.
 
-🌍 Live Demo: Task Manager on Netlify
+🌍 Live Demo: [Task Manager on Netlify](https://mywebsite433.netlify.app/)
 
 ✨ Mga Tampok (Features & Projects)
 Ang repository na ito ay naglalaman ng iba't ibang maliliit na proyekto na sumasaklaw sa:
